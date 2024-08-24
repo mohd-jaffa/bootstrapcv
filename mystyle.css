@@ -1,0 +1,67 @@
+body {
+    background: rgb(230, 230, 229);
+}
+
+#header a:hover {
+    color: white;
+    font-weight: bold;
+}
+
+#About {
+    margin-top: 100px;
+padding-top: 100px;
+}
+
+#About span {
+    padding: 10px 20px 10px 20px;
+}
+
+#About hr {
+    border: 0;
+    border-top: 10px;
+    margin-top: 7.5px;
+}
+
+#Skills span {
+    padding: 10px 20px 10px 20px;
+}
+
+#skills hr {
+    border: 0;
+    border-top: 10px;
+    margin-top: 7.5px;
+}
+
+#Education span {
+    padding: 10px 20px 10px 20px;
+}
+
+#Education hr {
+    border: 0;
+    border-top: 10px;
+    margin-top: 7.5px;
+}
+
+#Education .card {
+    border-top: 3px solid red;
+}
+
+#Projects span {
+    padding: 10px 20px 10px 20px;
+}
+
+#Projects hr {
+    border: 0;
+    border-top: 10px;
+    margin-top: 7.5px;
+}
+
+#Projects .card {
+    border-top: 3px solid red;
+}
+
+.thick-hr {
+    border: 5;
+    height: 10px; /* Adjust thickness here */
+    background-color: currentColor;
+}
